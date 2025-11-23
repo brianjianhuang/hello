@@ -1,4 +1,6 @@
- 
+
+Java Developer
+PROFESSIONAL SUMMARY
 • Overall, 9+ years of experience in Object Oriented Programming, Analysis, Design, Documentation, Integration, Testing, and
 Implementation of Client-Server, Distributed Multi-tiered and Large-Scale Enterprise applications using Java/J2EE
 technologies.
@@ -90,7 +92,7 @@ SonarQube, Nexus, Splunk, Grafan, Neo4j, Redis, GraphQL, Big Data
 Build Tools Maven, Gradle, Ant,
 CLOUD TECHNOLOGIES AWS, EC2, EBS, S3, ECS, AZURE, 3API GATEWAY, GCP
 PROFESSIONAL EXPERIENCE
- 
+Client: JP Morgan Chase, Newport, NJ Duration: August 2024 – Till Date
 Role: Sr Java Developer
 Responsibilities:
 ● Build Java/J2EE applications using Micro Service Architecture utilizing various Spring Boot, Spring Batch, and Spring IOC
